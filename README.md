@@ -9,7 +9,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@Lisandro Gabriel Reinoso")](www.linkedin.com/in/lisandro-gabriel-reinoso) 
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@Lisandro Gabriel Reinoso")](https://www.linkedin.com/in/lisandro-gabriel-reinoso/) 
 [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@anushkaduwolka123@gmail.com")](anushkaduwolka123@gmail.com)
 
 <br>
