@@ -9,8 +9,13 @@
 
 <br>
 
-[![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+<a href="mailto:your.email@gmail.com" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
+</a>
+<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" />
+</a>
+
 
 
 <br>
