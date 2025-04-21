@@ -9,10 +9,10 @@
 
 <br>
 
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:lisandoreinoso075@gmail.com" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="60" />
 </a>
-<a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
+<a href="https://www.linkedin.com/in/lisandro-gabriel-reinoso/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" />
 </a>
 
