@@ -24,8 +24,6 @@
 
 <br>
 
-## What I am Good at 🧑‍💻 :
-
 
 ## GitHub Stats 📈 :
 
