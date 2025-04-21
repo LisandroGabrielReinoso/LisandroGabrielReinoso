@@ -2,7 +2,7 @@
 
 ## About Me :
 - 💻 I transform user needs into software solutions, always seeking to improve the user experience and delivering the best in each project.
-- 🎓 Currently a student of Information Systems Engineering and a graduate of the Technical University in Programming from the National       Technological University
+- 🎓 🎓 Currently a student of Information Systems Engineering and a graduate of the Technical Degree in Programming from the National Technological University
 <br>
 
 ## Connect with me ☕ :
