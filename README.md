@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lisandro </h1>
 
 ## About Me :
-- I transform user needs into software solutions, always seeking to improve the user experience and delivering the best in each project.
-- 🎓Currently a student of Information Systems Engineering and a graduate of the Technical University in Programming from the National       Technological University
+- 💻 I transform user needs into software solutions, always seeking to improve the user experience and delivering the best in each project.
+- 🎓 Currently a student of Information Systems Engineering and a graduate of the Technical University in Programming from the National       Technological University
 <br>
 
 ## Connect with me ☕ :
