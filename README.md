@@ -1,9 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Lisandro </h1>
 
 ## About Me :
-
-- 🏢 I am currently working as a **Senior Software Engineer** at [HCL Technologies Lanka](https://hclsrilanka.com/contact-us/)
-- 🏢 Former **Software Engineer** at [iLabs](https://www.ilabs.lk/)
+- I transform user needs into software solutions, always seeking to improve the user experience and delivering the best in each project.
 - 🎓Currently a student of Information Systems Engineering and a graduate of the Technical University in Programming from the National       Technological University
 <br>
 
