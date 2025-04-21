@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="30" />
 </a>
 <a href="https://www.linkedin.com/in/yourprofile/" target="_blank">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="30" />
+  <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="60" />
 </a>
 
 
